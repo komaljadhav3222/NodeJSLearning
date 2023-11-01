@@ -1,0 +1,9 @@
+//Node js- Use module system to organize the code
+
+There are 3 types of module//
+1. core module (built in)
+2. local module
+3. third party moduleThis is appended content in file 
+ This is appended content in file 
+ This is appended content in file 
+ This is appended content in file
