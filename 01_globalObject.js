@@ -1,6 +1,6 @@
 
 
-//Global Object that are available throught application without importing
+//Global Object that are available through application without importing
 console.log(global);
 console.log(process);
 console.log(console);
